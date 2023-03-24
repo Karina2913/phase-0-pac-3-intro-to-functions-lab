@@ -1,3 +1,4 @@
+//referencing different libraries
 global.expect = require('expect');
 
 const babel = require('babel-core');
